@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio
-this repository is used as my portfolio to present my skill and experience as data analyst
+#Demographic Analysis
+this analysis was used for Data Analysis with Python Certification in Freecodecamp but i did more with the data that is used here
